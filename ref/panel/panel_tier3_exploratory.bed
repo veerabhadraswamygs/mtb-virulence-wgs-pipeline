@@ -1,0 +1,447 @@
+NC_000962.3	27022	27442	Rv0022c_whiB5	Regulatory proteins (other)	-
+NC_000962.3	28361	29207	Rv0024_Rv0024	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	50020	51124	Rv0046c_ino1	Intermediary metabolism and respiration	-
+NC_000962.3	106733	107603	Rv0097_Rv0097	Intermediary metabolism and respiration	+
+NC_000962.3	107599	108151	Rv0098_fcoT	Lipid metabolism	+
+NC_000962.3	108155	109778	Rv0099_fadD10	Lipid metabolism	+
+NC_000962.3	109782	110019	Rv0100_Rv0100	Conserved hypotheticals	+
+NC_000962.3	110000	117539	Rv0101_nrp	Lipid metabolism	+
+NC_000962.3	152323	154129	Rv0126_treS	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	154231	155599	Rv0127_mak	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	161770	162673	Rv0134_ephF	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	194992	196657	Rv0166_fadD5	Lipid metabolism	+
+NC_000962.3	204064	205237	Rv0173_lprK	Cell wall and cell processes	+
+NC_000962.3	206813	207455	Rv0175_Rv0175	Cell wall and cell processes	+
+NC_000962.3	207451	208420	Rv0176_Rv0176	Cell wall and cell processes	+
+NC_000962.3	210891	212250	Rv0180c_Rv0180c	Cell wall and cell processes	-
+NC_000962.3	213027	214140	Rv0182c_sigG	Information pathways	-
+NC_000962.3	218389	218551	Rv0186A_mymT	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	219995	221723	Rv0189c_ilvD	Intermediary metabolism and respiration	-
+NC_000962.3	230898	231534	Rv0195_Rv0195	Regulatory proteins (other)	+
+NC_000962.3	234515	236507	Rv0198c_zmp1	Intermediary metabolism and respiration	-
+NC_000962.3	236549	237209	Rv0199_Rv0199	Cell wall and cell processes	+
+NC_000962.3	241513	241924	Rv0203_Rv0203	Cell wall and cell processes	+
+NC_000962.3	241975	243214	Rv0204c_Rv0204c	Cell wall and cell processes	-
+NC_000962.3	243383	244487	Rv0205_Rv0205	Cell wall and cell processes	+
+NC_000962.3	247383	248112	Rv0207c_Rv0207c	Conserved hypotheticals	-
+NC_000962.3	258912	259926	Rv0216_Rv0216	Intermediary metabolism and respiration	+
+NC_000962.3	260923	262252	Rv0218_Rv0218	Cell wall and cell processes	+
+NC_000962.3	282648	286851	Rv0236c_aftD	Cell wall and cell processes	-
+NC_000962.3	293797	295633	Rv0244c_fadE5	Lipid metabolism	-
+NC_000962.3	300833	301655	Rv0249c_Rv0249c	Intermediary metabolism and respiration	-
+NC_000962.3	302172	302652	Rv0251c_hsp	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	314308	314854	Rv0262c_aac	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	358944	359748	Rv0295c_Rv0295c	Conserved hypotheticals	-
+NC_000962.3	392272	392728	Rv0326_Rv0326	Unknown	+
+NC_000962.3	398657	399524	Rv0334_rmlA	Intermediary metabolism and respiration	+
+NC_000962.3	410837	412760	Rv0342_iniA	Cell wall and cell processes	+
+NC_000962.3	418292	418946	Rv0348_Rv0348	Regulatory proteins (other)	+
+NC_000962.3	419834	421712	Rv0350_dnaK	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	421708	422416	Rv0351_grpE	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	422451	423639	Rv0352_dnaJ1	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	423638	424019	Rv0353_hspR	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	459455	462002	Rv0384c_clpB	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	463410	466668	Rv0386_Rv0386	Regulatory proteins (other)	+
+NC_000962.3	500349	501018	Rv0414c_thiE	Intermediary metabolism and respiration	-
+NC_000962.3	516016	516892	Rv0427c_xthA	Information pathways	-
+NC_000962.3	528607	530230	Rv0440_groEL2	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	559887	560748	Rv0469_umaA	Lipid metabolism	+
+NC_000962.3	565796	566396	Rv0475_hbhA	Cell wall and cell processes	+
+NC_000962.3	573983	575300	Rv0485_Rv0485	Regulatory proteins (other)	+
+NC_000962.3	579348	580581	Rv0490_senX3	Regulatory proteins (other)	+
+NC_000962.3	580808	581492	Rv0491_regX3	Regulatory proteins (other)	+
+NC_000962.3	586393	587380	Rv0496_Rv0496	Conserved hypotheticals	+
+NC_000962.3	590082	590970	Rv0500_proC	Intermediary metabolism and respiration	+
+NC_000962.3	593870	594779	Rv0503c_cmaA2	Lipid metabolism	-
+NC_000962.3	605603	606152	Rv0513_Rv0513	Cell wall and cell processes	+
+NC_000962.3	645466	646255	Rv0554_bpoC	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	653878	654739	Rv0563_htpX	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	657547	658039	Rv0566c_Rv0566c	Conserved hypotheticals	-
+NC_000962.3	688807	689062	Rv0590A_Rv0590A	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	692023	693232	Rv0593_lprL	Cell wall and cell processes	+
+NC_000962.3	702015	702759	Rv0606_Rv0606	Insertion sequences and phages	+
+NC_000962.3	730319	731033	Rv0634c_Rv0634c	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	732392	732821	Rv0636_hadB	Intermediary metabolism and respiration	+
+NC_000962.3	736297	737203	Rv0642c_mmaA4	Lipid metabolism	-
+NC_000962.3	737267	738149	Rv0643c_mmaA3	Lipid metabolism	-
+NC_000962.3	738296	739160	Rv0644c_mmaA2	Lipid metabolism	-
+NC_000962.3	739326	740187	Rv0645c_mmaA1	Lipid metabolism	-
+NC_000962.3	747036	747945	Rv0650_Rv0650	Intermediary metabolism and respiration	+
+NC_000962.3	751516	752596	Rv0655_mkl	Cell wall and cell processes	+
+NC_000962.3	769791	770550	Rv0670_end	Information pathways	+
+NC_000962.3	779542	780040	Rv0679c_Rv0679c	Conserved hypotheticals	-
+NC_000962.3	787098	787926	Rv0687_Rv0687	Intermediary metabolism and respiration	+
+NC_000962.3	827542	828076	Rv0735_sigL	Information pathways	+
+NC_000962.3	873342	874236	Rv0780_purC	Intermediary metabolism and respiration	+
+NC_000962.3	891471	892269	Rv0798c_cfp29	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	912725	913502	Rv0820_phoT	Cell wall and cell processes	+
+NC_000962.3	913557	914199	Rv0821c_phoY2	Cell wall and cell processes	-
+NC_000962.3	921574	921865	Rv0829_Rv0829	Insertion sequences and phages	+
+NC_000962.3	944342	944735	Rv0847_lpqS	Cell wall and cell processes	+
+NC_000962.3	964311	965535	Rv0867c_rpfA	Cell wall and cell processes	-
+NC_000962.3	967897	968305	Rv0871_cspB	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	1002811	1003792	Rv0899_arfA	Cell wall and cell processes	+
+NC_000962.3	1004500	1005841	Rv0902c_prrB	Regulatory proteins (other)	-
+NC_000962.3	1005851	1006562	Rv0903c_prrA	Regulatory proteins (other)	-
+NC_000962.3	1036998	1037925	Rv0930_pstA1	Cell wall and cell processes	+
+NC_000962.3	1037919	1039914	Rv0931c_pknD	Regulatory proteins (other)	-
+NC_000962.3	1039935	1041048	Rv0932c_pstS2	Cell wall and cell processes	-
+NC_000962.3	1042114	1043239	Rv0934_pstS1	Cell wall and cell processes	+
+NC_000962.3	1058259	1060575	Rv0949_uvrD1	Information pathways	+
+NC_000962.3	1060655	1061654	Rv0950c_Rv0950c	Conserved hypotheticals	-
+NC_000962.3	1078742	1081055	Rv0969_ctpV	Cell wall and cell processes	+
+NC_000962.3	1099065	1100460	Rv0983_pepD	Intermediary metabolism and respiration	+
+NC_000962.3	1101802	1102549	Rv0986_Rv0986	Cell wall and cell processes	+
+NC_000962.3	1107442	1108099	Rv0990c_Rv0990c	Conserved hypotheticals	-
+NC_000962.3	1118427	1119939	Rv1002c_Rv1002c	Cell wall and cell processes	-
+NC_000962.3	1128090	1129179	Rv1009_rpfB	Cell wall and cell processes	+
+NC_000962.3	1134784	1135465	Rv1016c_lpqT	Cell wall and cell processes	-
+NC_000962.3	1142670	1143648	Rv1021_Rv1021	Conserved hypotheticals	+
+NC_000962.3	1147018	1147978	Rv1026_Rv1026	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	1149103	1151686	Rv1028c_kdpD	Regulatory proteins (other)	-
+NC_000962.3	1206519	1207386	Rv1082_mca	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	1209755	1210484	Rv1085c_Rv1085c	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	1219247	1220186	Rv1092c_coaA	Intermediary metabolism and respiration	-
+NC_000962.3	1227595	1228684	Rv1099c_glpX	Intermediary metabolism and respiration	-
+NC_000962.3	1235456	1236095	Rv1109c_Rv1109c	Conserved hypotheticals	-
+NC_000962.3	1237208	1238192	Rv1111c_Rv1111c	Conserved hypotheticals	-
+NC_000962.3	1246143	1247052	Rv1123c_bpoB	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	1247126	1248077	Rv1124_ephC	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	1251616	1252972	Rv1128c_Rv1128c	Insertion sequences and phages	-
+NC_000962.3	1271155	1271908	Rv1144_Rv1144	Intermediary metabolism and respiration	+
+NC_000962.3	1287327	1291026	Rv1161_narG	Intermediary metabolism and respiration	+
+NC_000962.3	1291064	1292741	Rv1162_narH	Intermediary metabolism and respiration	+
+NC_000962.3	1292797	1293403	Rv1163_narJ	Intermediary metabolism and respiration	+
+NC_000962.3	1293405	1294146	Rv1164_narI	Intermediary metabolism and respiration	+
+NC_000962.3	1320034	1321453	Rv1182_papA3	Lipid metabolism	+
+NC_000962.3	1324531	1325611	Rv1184c_Rv1184c	Cell wall and cell processes	-
+NC_000962.3	1325775	1327512	Rv1185c_fadD21	Lipid metabolism	-
+NC_000962.3	1334926	1335754	Rv1192_Rv1192	Conserved hypotheticals	+
+NC_000962.3	1346935	1348624	Rv1204c_Rv1204c	Conserved hypotheticals	-
+NC_000962.3	1354242	1354470	Rv1211_Rv1211	Conserved hypotheticals	+
+NC_000962.3	1367462	1367858	Rv1224_tatB	Cell wall and cell processes	+
+NC_000962.3	1377523	1378930	Rv1235_lpqY	Cell wall and cell processes	+
+NC_000962.3	1378926	1379850	Rv1236_sugA	Cell wall and cell processes	+
+NC_000962.3	1379854	1380679	Rv1237_sugB	Cell wall and cell processes	+
+NC_000962.3	1380683	1381865	Rv1238_sugC	Cell wall and cell processes	+
+NC_000962.3	1386856	1387717	Rv1244_lpqZ	Cell wall and cell processes	+
+NC_000962.3	1413959	1415840	Rv1266c_pknH	Regulatory proteins (other)	-
+NC_000962.3	1420409	1422305	Rv1272c_Rv1272c	Cell wall and cell processes	-
+NC_000962.3	1437323	1437815	Rv1284_canA	Intermediary metabolism and respiration	+
+NC_000962.3	1443481	1445047	Rv1290c_Rv1290c	Conserved hypotheticals	-
+NC_000962.3	1448027	1449371	Rv1293_lysA	Intermediary metabolism and respiration	+
+NC_000962.3	1460243	1460996	Rv1304_atpB	Intermediary metabolism and respiration	+
+NC_000962.3	1485861	1487031	Rv1323_fadA4	Lipid metabolism	+
+NC_000962.3	1500925	1501582	Rv1332_Rv1332	Regulatory proteins (other)	+
+NC_000962.3	1501598	1502633	Rv1333_Rv1333	Intermediary metabolism and respiration	+
+NC_000962.3	1505074	1505890	Rv1338_murI	Cell wall and cell processes	+
+NC_000962.3	1520004	1521876	Rv1354c_Rv1354c	Conserved hypotheticals	-
+NC_000962.3	1525292	1526216	Rv1357c_Rv1357c	Conserved hypotheticals	-
+NC_000962.3	1543358	1544828	Rv1371_Rv1371	Cell wall and cell processes	+
+NC_000962.3	1581144	1581969	Rv1405c_Rv1405c	Intermediary metabolism and respiration	-
+NC_000962.3	1582165	1583104	Rv1406_fmt	Information pathways	+
+NC_000962.3	1586209	1587766	Rv1410c_Rv1410c	Cell wall and cell processes	-
+NC_000962.3	1596880	1597909	Rv1422_Rv1422	Conserved hypotheticals	+
+NC_000962.3	1646185	1646992	Rv1460_Rv1460	Regulatory proteins (other)	+
+NC_000962.3	1652767	1653256	Rv1465_Rv1465	Intermediary metabolism and respiration	+
+NC_000962.3	1656962	1658936	Rv1469_ctpD	Cell wall and cell processes	+
+NC_000962.3	1666989	1668408	Rv1477_ripA	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	1668418	1669144	Rv1478_Rv1478	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	1692923	1693823	Rv1502_Rv1502	Unknown	+
+NC_000962.3	1693995	1694544	Rv1503c_Rv1503c	Conserved hypotheticals	-
+NC_000962.3	1694544	1695144	Rv1504c_Rv1504c	Conserved hypotheticals	-
+NC_000962.3	1695942	1696443	Rv1506c_Rv1506c	Unknown	-
+NC_000962.3	1705806	1706595	Rv1514c_Rv1514c	Conserved hypotheticals	-
+NC_000962.3	1718725	1719970	Rv1524_Rv1524	Intermediary metabolism and respiration	+
+NC_000962.3	1720779	1722060	Rv1526c_Rv1526c	Intermediary metabolism and respiration	-
+NC_000962.3	1742243	1742852	Rv1539_lspA	Cell wall and cell processes	+
+NC_000962.3	1765399	1767142	Rv1562c_treZ	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	1767134	1769432	Rv1563c_treY	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	1769435	1771601	Rv1564c_treX	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	1773927	1774620	Rv1566c_Rv1566c	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	1775391	1776705	Rv1568_bioA	Intermediary metabolism and respiration	+
+NC_000962.3	1776701	1777862	Rv1569_bioF1	Intermediary metabolism and respiration	+
+NC_000962.3	1790283	1791333	Rv1589_bioB	Intermediary metabolism and respiration	+
+NC_000962.3	1791333	1791573	Rv1590_Rv1590	Conserved hypotheticals	+
+NC_000962.3	1807297	1807762	Rv1608c_bcpB	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	1840571	1842242	Rv1635c_Rv1635c	Cell wall and cell processes	-
+NC_000962.3	1842450	1842891	Rv1636_TB15.3	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	1843740	1846659	Rv1638_uvrA	Information pathways	+
+NC_000962.3	1848516	1852035	Rv1640c_lysX	Information pathways	-
+NC_000962.3	1866630	1867845	Rv1653_argJ	Intermediary metabolism and respiration	+
+NC_000962.3	1917939	1918746	Rv1694_tlyA	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	1919682	1921446	Rv1696_recN	Information pathways	+
+NC_000962.3	1938145	1938841	Rv1710_scpB	Cell wall and cell processes	+
+NC_000962.3	1962227	1964186	Rv1736c_narX	Intermediary metabolism and respiration	-
+NC_000962.3	1964182	1965370	Rv1737c_narK2	Cell wall and cell processes	-
+NC_000962.3	1969003	1970704	Rv1743_pknE	Regulatory proteins (other)	+
+NC_000962.3	1973629	1976227	Rv1747_Rv1747	Cell wall and cell processes	+
+NC_000962.3	1986853	1987696	Rv1755c_plcD	Intermediary metabolism and respiration	-
+NC_000962.3	2023446	2024628	Rv1785c_cyp143	Intermediary metabolism and respiration	-
+NC_000962.3	2024827	2025031	Rv1786_Rv1786	Intermediary metabolism and respiration	+
+NC_000962.3	2031065	2031968	Rv1794_Rv1794	Conserved hypotheticals	+
+NC_000962.3	2053442	2054147	Rv1811_mgtC	Cell wall and cell processes	+
+NC_000962.3	2054156	2055359	Rv1812c_Rv1812c	Intermediary metabolism and respiration	-
+NC_000962.3	2055680	2056112	Rv1813c_Rv1813c	Conserved hypotheticals	-
+NC_000962.3	2059594	2061058	Rv1817_Rv1817	Intermediary metabolism and respiration	+
+NC_000962.3	2066456	2068883	Rv1821_secA2	Cell wall and cell processes	+
+NC_000962.3	2073942	2074437	Rv1829_Rv1829	Conserved hypotheticals	+
+NC_000962.3	2084755	2086981	Rv1837c_glcB	Intermediary metabolism and respiration	-
+NC_000962.3	2097347	2097650	Rv1848_ureA	Intermediary metabolism and respiration	+
+NC_000962.3	2097646	2097961	Rv1849_ureB	Intermediary metabolism and respiration	+
+NC_000962.3	2097960	2099694	Rv1850_ureC	Intermediary metabolism and respiration	+
+NC_000962.3	2099693	2100329	Rv1851_ureF	Intermediary metabolism and respiration	+
+NC_000962.3	2100339	2101014	Rv1852_ureG	Intermediary metabolism and respiration	+
+NC_000962.3	2101021	2101648	Rv1853_ureD	Intermediary metabolism and respiration	+
+NC_000962.3	2107735	2108713	Rv1860_apa	Cell wall and cell processes	+
+NC_000962.3	2125339	2125819	Rv1876_bfrA	Intermediary metabolism and respiration	+
+NC_000962.3	2133730	2134261	Rv1884c_rpfC	Cell wall and cell processes	-
+NC_000962.3	2139740	2140148	Rv1891_Rv1891	Conserved hypotheticals	+
+NC_000962.3	2140738	2141869	Rv1894c_Rv1894c	Conserved hypotheticals	-
+NC_000962.3	2147661	2148954	Rv1901_cinA	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	2181917	2182442	Rv1930c_Rv1930c	Conserved hypotheticals	-
+NC_000962.3	2182459	2183239	Rv1931c_Rv1931c	Regulatory proteins (other)	-
+NC_000962.3	2183371	2183869	Rv1932_tpx	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	2214122	2215256	Rv1970_lprM	Cell wall and cell processes	+
+NC_000962.3	2217658	2218036	Rv1974_Rv1974	Cell wall and cell processes	+
+NC_000962.3	2221718	2223164	Rv1979c_Rv1979c	Cell wall and cell processes	-
+NC_000962.3	2224219	2225188	Rv1981c_nrdF1	Information pathways	-
+NC_000962.3	2239003	2239957	Rv1996_Rv1996	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	2249477	2250974	Rv2004c_Rv2004c	Conserved hypotheticals	-
+NC_000962.3	2250995	2251883	Rv2005c_Rv2005c	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	2252001	2255985	Rv2006_otsB1	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	2271862	2272747	Rv2026c_Rv2026c	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	2274568	2275408	Rv2028c_Rv2028c	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	2279128	2280124	Rv2032_acg	Conserved hypotheticals	+
+NC_000962.3	2283722	2284796	Rv2038c_Rv2038c	Cell wall and cell processes	-
+NC_000962.3	2285627	2286530	Rv2040c_Rv2040c	Cell wall and cell processes	-
+NC_000962.3	2328973	2330146	Rv2072c_cobL	Intermediary metabolism and respiration	-
+NC_000962.3	2330213	2330963	Rv2073c_Rv2073c	Intermediary metabolism and respiration	-
+NC_000962.3	2330992	2331406	Rv2074_Rv2074	Intermediary metabolism and respiration	+
+NC_000962.3	2355318	2356677	Rv2097c_pafA	Intermediary metabolism and respiration	-
+NC_000962.3	2374460	2376290	Rv2115c_mpa	Cell wall and cell processes	-
+NC_000962.3	2388615	2390085	Rv2127_ansP1	Cell wall and cell processes	+
+NC_000962.3	2396007	2396838	Rv2136c_Rv2136c	Cell wall and cell processes	-
+NC_000962.3	2432950	2433634	Rv2171_lppM	Cell wall and cell processes	+
+NC_000962.3	2443301	2444585	Rv2181_Rv2181	Cell wall and cell processes	+
+NC_000962.3	2452114	2453272	Rv2190c_Rv2190c	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	2455630	2456743	Rv2192c_trpD	Intermediary metabolism and respiration	-
+NC_000962.3	2463659	2464751	Rv2200c_ctaC	Intermediary metabolism and respiration	-
+NC_000962.3	2470621	2471332	Rv2206_Rv2206	Cell wall and cell processes	+
+NC_000962.3	2476041	2477181	Rv2211c_gcvT	Intermediary metabolism and respiration	-
+NC_000962.3	2479922	2481701	Rv2214c_ephD	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	2487614	2489051	Rv2220_glnA1	Intermediary metabolism and respiration	+
+NC_000962.3	2495460	2497023	Rv2224c_caeA	Cell wall and cell processes	-
+NC_000962.3	2500930	2501632	Rv2227_Rv2227	Conserved hypotheticals	+
+NC_000962.3	2504604	2505699	Rv2231c_cobC	Intermediary metabolism and respiration	-
+NC_000962.3	2510714	2511176	Rv2238c_ahpE	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	2512538	2515244	Rv2241_aceE	Intermediary metabolism and respiration	+
+NC_000962.3	2519395	2520712	Rv2246_kasB	Lipid metabolism	+
+NC_000962.3	2546882	2547752	Rv2275_Rv2275	Conserved hypotheticals	+
+NC_000962.3	2549123	2550029	Rv2277c_Rv2277c	Intermediary metabolism and respiration	-
+NC_000962.3	2570058	2572002	Rv2299c_htpG	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	2573014	2573707	Rv2301_cut2	Cell wall and cell processes	+
+NC_000962.3	2574095	2575019	Rv2303c_Rv2303c	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	2591847	2592726	Rv2319c_Rv2319c	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	2609731	2610421	Rv2335_cysE	Intermediary metabolism and respiration	+
+NC_000962.3	2610836	2611805	Rv2336_Rv2336	Conserved hypotheticals	+
+NC_000962.3	2627171	2628698	Rv2349c_plcC	Intermediary metabolism and respiration	-
+NC_000962.3	2628780	2630319	Rv2350c_plcB	Intermediary metabolism and respiration	-
+NC_000962.3	2630536	2632075	Rv2351c_plcA	Intermediary metabolism and respiration	-
+NC_000962.3	2641649	2642042	Rv2359_zur	Regulatory proteins (other)	+
+NC_000962.3	2652838	2653987	Rv2373c_dnaJ2	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	2654061	2655093	Rv2374c_hrcA	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	2680764	2682018	Rv2387_Rv2387	Conserved hypotheticals	+
+NC_000962.3	2682014	2683142	Rv2388c_hemN	Intermediary metabolism and respiration	-
+NC_000962.3	2683247	2683712	Rv2389c_rpfD	Cell wall and cell processes	-
+NC_000962.3	2684678	2686370	Rv2391_sirA	Intermediary metabolism and respiration	+
+NC_000962.3	2686366	2687131	Rv2392_cysH	Intermediary metabolism and respiration	+
+NC_000962.3	2725570	2726087	Rv2427A_oxyR'	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	2734375	2734795	Rv2437_Rv2437	Cell wall and cell processes	+
+NC_000962.3	2751661	2752180	Rv2450c_rpfE	Cell wall and cell processes	-
+NC_000962.3	2775271	2775565	Rv2472_Rv2472	Conserved hypotheticals	+
+NC_000962.3	2789279	2791022	Rv2483c_plsC	Lipid metabolism	-
+NC_000962.3	2816884	2818474	Rv2502c_accD1	Lipid metabolism	-
+NC_000962.3	2834108	2835335	Rv2518c_ldtB	Cell wall and cell processes	-
+NC_000962.3	2837683	2838157	Rv2521_bcp	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	2872011	2873265	Rv2553c_Rv2553c	Cell wall and cell processes	-
+NC_000962.3	2906088	2906763	Rv2581c_Rv2581c	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	2949592	2950486	Rv2623_TB31.7	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	2950488	2951307	Rv2624c_Rv2624c	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	3010023	3010686	Rv2692_ceoC	Cell wall and cell processes	+
+NC_000962.3	3010696	3011368	Rv2693c_Rv2693c	Cell wall and cell processes	-
+NC_000962.3	3012828	3013608	Rv2696c_Rv2696c	Conserved hypotheticals	-
+NC_000962.3	3016857	3017655	Rv2702_ppgK	Intermediary metabolism and respiration	+
+NC_000962.3	3020572	3021547	Rv2707_Rv2707	Conserved hypotheticals	+
+NC_000962.3	3022460	3023432	Rv2710_sigB	Information pathways	+
+NC_000962.3	3023564	3024257	Rv2711_ideR	Regulatory proteins (other)	+
+NC_000962.3	3046820	3047675	Rv2734_Rv2734	Conserved hypotheticals	+
+NC_000962.3	3053232	3053682	Rv2740_ephG	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	3058192	3058531	Rv2745c_clgR	Regulatory proteins (other)	-
+NC_000962.3	3100201	3101581	Rv2791c_Rv2791c	Insertion sequences and phages	-
+NC_000962.3	3103256	3103940	Rv2794c_pptT	Lipid metabolism	-
+NC_000962.3	3115045	3115303	Rv2808_Rv2808	Conserved hypotheticals	+
+NC_000962.3	3118223	3119036	Rv2813_Rv2813	Conserved hypotheticals	+
+NC_000962.3	3127363	3128272	Rv2820c_Rv2820c	Conserved hypotheticals	-
+NC_000962.3	3151201	3152950	Rv2845c_proS	Information pathways	-
+NC_000962.3	3168582	3169359	Rv2857c_Rv2857c	Intermediary metabolism and respiration	-
+NC_000962.3	3177536	3177818	Rv2865_relF	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	3177821	3178085	Rv2866_relG	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	3180547	3181762	Rv2869c_rip	Cell wall and cell processes	-
+NC_000962.3	3183904	3184567	Rv2873_mpt83	Cell wall and cell processes	+
+NC_000962.3	3194165	3195548	Rv2885c_Rv2885c	Insertion sequences and phages	-
+NC_000962.3	3219273	3219861	Rv2912c_Rv2912c	Regulatory proteins (other)	-
+NC_000962.3	3232870	3234139	Rv2921c_ftsY	Cell wall and cell processes	-
+NC_000962.3	3297836	3299954	Rv2948c_fadD22	Lipid metabolism	-
+NC_000962.3	3299970	3300570	Rv2949c_Rv2949c	Intermediary metabolism and respiration	-
+NC_000962.3	3300595	3302455	Rv2950c_fadD29	Lipid metabolism	-
+NC_000962.3	3303102	3304248	Rv2951c_Rv2951c	Intermediary metabolism and respiration	-
+NC_000962.3	3304440	3305253	Rv2952_Rv2952	Intermediary metabolism and respiration	+
+NC_000962.3	3305278	3306535	Rv2953_Rv2953	Lipid metabolism	+
+NC_000962.3	3306665	3307391	Rv2954c_Rv2954c	Conserved hypotheticals	-
+NC_000962.3	3307579	3308545	Rv2955c_Rv2955c	Conserved hypotheticals	-
+NC_000962.3	3308667	3309399	Rv2956_Rv2956	Conserved hypotheticals	+
+NC_000962.3	3309469	3310297	Rv2957_Rv2957	Intermediary metabolism and respiration	+
+NC_000962.3	3310713	3312000	Rv2958c_Rv2958c	Intermediary metabolism and respiration	-
+NC_000962.3	3312100	3312838	Rv2959c_Rv2959c	Intermediary metabolism and respiration	-
+NC_000962.3	3332070	3332754	Rv2976c_ung	Information pathways	-
+NC_000962.3	3333784	3335164	Rv2978c_Rv2978c	Insertion sequences and phages	-
+NC_000962.3	3336795	3337917	Rv2981c_ddlA	Cell wall and cell processes	-
+NC_000962.3	3339853	3342082	Rv2984_ppk1	Intermediary metabolism and respiration	+
+NC_000962.3	3343175	3343820	Rv2986c_hupB	Information pathways	-
+NC_000962.3	3344032	3344629	Rv2987c_leuD	Intermediary metabolism and respiration	-
+NC_000962.3	3356814	3357276	Rv2998_Rv2998	Conserved hypotheticals	+
+NC_000962.3	3361129	3362986	Rv3003c_ilvB1	Intermediary metabolism and respiration	-
+NC_000962.3	3368822	3369854	Rv3010c_pfkA	Intermediary metabolism and respiration	-
+NC_000962.3	3401932	3403162	Rv3042c_serB2	Intermediary metabolism and respiration	-
+NC_000962.3	3411216	3411957	Rv3050c_Rv3050c	Regulatory proteins (other)	-
+NC_000962.3	3423261	3425427	Rv3061c_fadE22	Lipid metabolism	-
+NC_000962.3	3427242	3429519	Rv3063_cstA	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	3442655	3445988	Rv3080c_pknK	Regulatory proteins (other)	-
+NC_000962.3	3447403	3448426	Rv3082c_virS	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	3448503	3449991	Rv3083_Rv3083	Intermediary metabolism and respiration	+
+NC_000962.3	3449996	3450923	Rv3084_lipR	Intermediary metabolism and respiration	+
+NC_000962.3	3450919	3451750	Rv3085_Rv3085	Intermediary metabolism and respiration	+
+NC_000962.3	3451780	3452887	Rv3086_adhD	Intermediary metabolism and respiration	+
+NC_000962.3	3452924	3454343	Rv3087_Rv3087	Lipid metabolism	+
+NC_000962.3	3454339	3455764	Rv3088_tgs4	Lipid metabolism	+
+NC_000962.3	3455760	3457272	Rv3089_fadD13	Lipid metabolism	+
+NC_000962.3	3467605	3467926	Rv3098A_Rv3098A	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	3469300	3469783	Rv3100c_smpB	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	3471412	3471850	Rv3103c_Rv3103c	Conserved hypotheticals	-
+NC_000962.3	3479170	3479683	Rv3111_moaC1	Intermediary metabolism and respiration	+
+NC_000962.3	3479699	3479951	Rv3112_moaD1	Intermediary metabolism and respiration	+
+NC_000962.3	3499942	3500749	Rv3134c_Rv3134c	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	3516745	3519166	Rv3151_nuoG	Intermediary metabolism and respiration	+
+NC_000962.3	3536101	3537238	Rv3168_Rv3168	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	3539845	3540745	Rv3171c_hpx	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	3544343	3545300	Rv3176c_mesT	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	3545446	3546307	Rv3177_Rv3177	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	3546437	3546797	Rv3178_Rv3178	Conserved hypotheticals	+
+NC_000962.3	3582531	3583710	Rv3206c_moeB1	Intermediary metabolism and respiration	-
+NC_000962.3	3586843	3587539	Rv3210c_Rv3210c	Conserved hypotheticals	-
+NC_000962.3	3605750	3607034	Rv3229c_desA3	Lipid metabolism	-
+NC_000962.3	3608869	3609757	Rv3232c_ppk2	Intermediary metabolism and respiration	-
+NC_000962.3	3611958	3613116	Rv3236c_Rv3236c	Cell wall and cell processes	-
+NC_000962.3	3626662	3627349	Rv3246c_mtrA	Regulatory proteins (other)	-
+NC_000962.3	3630737	3631988	Rv3252c_alkB	Lipid metabolism	-
+NC_000962.3	3638810	3639302	Rv3258c_Rv3258c	Conserved hypotheticals	-
+NC_000962.3	3650233	3650515	Rv3269_Rv3269	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	3650525	3652682	Rv3270_ctpC	Cell wall and cell processes	+
+NC_000962.3	3659877	3660696	Rv3277_Rv3277	Cell wall and cell processes	+
+NC_000962.3	3672327	3673575	Rv3292_Rv3292	Conserved hypotheticals	+
+NC_000962.3	3700704	3701016	Rv3312A_Rv3312A	Cell wall and cell processes	-
+NC_000962.3	3709048	3709714	Rv3323c_moaX	Intermediary metabolism and respiration	-
+NC_000962.3	3721730	3722600	Rv3335c_Rv3335c	Cell wall and cell processes	-
+NC_000962.3	3770772	3771048	Rv3357_relJ	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	3771044	3771302	Rv3358_relK	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	3784931	3786272	Rv3371_Rv3371	Lipid metabolism	+
+NC_000962.3	3786313	3787489	Rv3372_otsB2	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	3788620	3790048	Rv3375_amiD	Intermediary metabolism and respiration	+
+NC_000962.3	3790847	3792353	Rv3377c_Rv3377c	Intermediary metabolism and respiration	-
+NC_000962.3	3792357	3793248	Rv3378c_Rv3378c	Intermediary metabolism and respiration	-
+NC_000962.3	3817238	3818027	Rv3400_Rv3400	Intermediary metabolism and respiration	+
+NC_000962.3	3823879	3824584	Rv3404c_Rv3404c	Conserved hypotheticals	-
+NC_000962.3	3826990	3828727	Rv3409c_choD	Lipid metabolism	-
+NC_000962.3	3833037	3833676	Rv3414c_sigD	Information pathways	-
+NC_000962.3	3835271	3836891	Rv3417c_groEL1	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	3836985	3837288	Rv3418c_groES	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	3837554	3838589	Rv3419c_gcp	Intermediary metabolism and respiration	-
+NC_000962.3	3889361	3889868	Rv3472_Rv3472	Conserved hypotheticals	+
+NC_000962.3	3889947	3890733	Rv3473c_bpoA	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	3903077	3904616	Rv3484_cpsA	Conserved hypotheticals	+
+NC_000962.3	3906173	3907007	Rv3487c_lipF	Intermediary metabolism and respiration	-
+NC_000962.3	3908071	3908236	Rv3489_Rv3489	Conserved hypotheticals	+
+NC_000962.3	3908235	3909738	Rv3490_otsA	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	3913379	3914534	Rv3495c_lprN	Cell wall and cell processes	-
+NC_000962.3	3921086	3922040	Rv3502c_Rv3502c	Intermediary metabolism and respiration	-
+NC_000962.3	3955549	3956260	Rv3519_Rv3519	Conserved hypotheticals	+
+NC_000962.3	3959528	3960713	Rv3523_ltp3	Lipid metabolism	+
+NC_000962.3	3962438	3963599	Rv3526_kshA	Intermediary metabolism and respiration	+
+NC_000962.3	3963604	3964054	Rv3527_Rv3527	Conserved hypotheticals	+
+NC_000962.3	3972551	3973592	Rv3534c_hsaF	Intermediary metabolism and respiration	-
+NC_000962.3	3975368	3977060	Rv3537_kstD	Intermediary metabolism and respiration	+
+NC_000962.3	3979498	3980659	Rv3540c_ltp2	Lipid metabolism	-
+NC_000962.3	3980658	3981048	Rv3541c_Rv3541c	Conserved hypotheticals	-
+NC_000962.3	3981044	3981980	Rv3542c_Rv3542c	Conserved hypotheticals	-
+NC_000962.3	3981976	3983140	Rv3543c_fadE29	Lipid metabolism	-
+NC_000962.3	3983124	3984144	Rv3544c_fadE28	Lipid metabolism	-
+NC_000962.3	3984143	3985445	Rv3545c_cyp125	Intermediary metabolism and respiration	-
+NC_000962.3	3989895	3990774	Rv3551_Rv3551	Intermediary metabolism and respiration	+
+NC_000962.3	3995803	3996964	Rv3556c_fadA6	Lipid metabolism	-
+NC_000962.3	4000431	4001589	Rv3560c_fadE30	Lipid metabolism	-
+NC_000962.3	4004290	4005250	Rv3563_fadE32	Lipid metabolism	+
+NC_000962.3	4005246	4006203	Rv3564_fadE33	Lipid metabolism	+
+NC_000962.3	4009296	4010199	Rv3568c_hsaC	Intermediary metabolism and respiration	-
+NC_000962.3	4012416	4013493	Rv3571_kshB	Intermediary metabolism and respiration	+
+NC_000962.3	4016483	4017083	Rv3574_kstR	Regulatory proteins (other)	+
+NC_000962.3	4025055	4025544	Rv3583c_Rv3583c	Regulatory proteins (other)	-
+NC_000962.3	4029870	4030494	Rv3588c_canB	Intermediary metabolism and respiration	-
+NC_000962.3	4043861	4044281	Rv3601c_panD	Intermediary metabolism and respiration	-
+NC_000962.3	4044280	4045210	Rv3602c_panC	Intermediary metabolism and respiration	-
+NC_000962.3	4057732	4058701	Rv3617_ephA	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	4070513	4071239	Rv3631_Rv3631	Intermediary metabolism and respiration	+
+NC_000962.3	4088327	4088531	Rv3648c_cspA	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	4088780	4091096	Rv3649_Rv3649	Information pathways	+
+NC_000962.3	4091840	4092878	Rv3651_Rv3651	Conserved hypotheticals	+
+NC_000962.3	4094659	4094983	Rv3654c_Rv3654c	Conserved hypotheticals	-
+NC_000962.3	4094922	4095300	Rv3655c_Rv3655c	Conserved hypotheticals	-
+NC_000962.3	4098095	4099148	Rv3660c_Rv3660c	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	4099646	4100510	Rv3661_Rv3661	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	4102031	4103678	Rv3663c_dppD	Cell wall and cell processes	-
+NC_000962.3	4103674	4104475	Rv3664c_dppC	Cell wall and cell processes	-
+NC_000962.3	4104530	4105457	Rv3665c_dppB	Cell wall and cell processes	-
+NC_000962.3	4105458	4107084	Rv3666c_dppA	Cell wall and cell processes	-
+NC_000962.3	4111345	4112329	Rv3670_ephE	Virulence, detoxification, adaptation (Mycobrowser)	+
+NC_000962.3	4112321	4113515	Rv3671c_Rv3671c	Intermediary metabolism and respiration	-
+NC_000962.3	4114473	4115157	Rv3673c_Rv3673c	Intermediary metabolism and respiration	-
+NC_000962.3	4116477	4117152	Rv3676_crp	Regulatory proteins (other)	+
+NC_000962.3	4121197	4121554	Rv3681c_whiB4	Regulatory proteins (other)	-
+NC_000962.3	4121915	4124348	Rv3682_ponA2	Cell wall and cell processes	+
+NC_000962.3	4124416	4125376	Rv3683_Rv3683	Conserved hypotheticals	+
+NC_000962.3	4143950	4144916	Rv3701c_egtD	Conserved hypotheticals	-
+NC_000962.3	4161047	4161773	Rv3717_Rv3717	Conserved hypotheticals	+
+NC_000962.3	4168535	4169300	Rv3723_Rv3723	Cell wall and cell processes	+
+NC_000962.3	4201893	4202613	Rv3756c_proZ	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	4202609	4203299	Rv3757c_proW	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	4203286	4204417	Rv3758c_proV	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	4204425	4205373	Rv3759c_proX	Virulence, detoxification, adaptation (Mycobrowser)	-
+NC_000962.3	4209046	4209526	Rv3763_lpqH	Cell wall and cell processes	+
+NC_000962.3	4227528	4228350	Rv3781_rfbE	Cell wall and cell processes	+
+NC_000962.3	4239862	4243147	Rv3793_embC	Cell wall and cell processes	+
+NC_000962.3	4243232	4246517	Rv3794_embA	Cell wall and cell processes	+
+NC_000962.3	4264562	4265462	Rv3803c_fbpD	Lipid metabolism	-
+NC_000962.3	4266952	4268836	Rv3805c_aftB	Cell wall and cell processes	-
+NC_000962.3	4273738	4274593	Rv3810_pirG	Cell wall and cell processes	+
+NC_000962.3	4284418	4285825	Rv3820c_papA2	Lipid metabolism	-
+NC_000962.3	4285972	4286686	Rv3821_Rv3821	Cell wall and cell processes	+
+NC_000962.3	4286720	4287935	Rv3822_Rv3822	Conserved hypotheticals	+
+NC_000962.3	4291638	4293174	Rv3824c_papA1	Lipid metabolism	-
+NC_000962.3	4299811	4301566	Rv3826_fadD23	Lipid metabolism	+
+NC_000962.3	4301562	4302789	Rv3827c_Rv3827c	Insertion sequences and phages	-
+NC_000962.3	4314177	4314723	Rv3841_bfrB	Intermediary metabolism and respiration	+
+NC_000962.3	4327548	4328199	Rv3855_ethR	Regulatory proteins (other)	+
+NC_000962.3	4387891	4390432	Rv3903c_Rv3903c	Conserved hypotheticals	-
+NC_000962.3	4396596	4400151	Rv3910_Rv3910	Cell wall and cell processes	+
+NC_000962.3	4400185	4400854	Rv3911_sigM	Information pathways	+
+NC_000962.3	4410052	4410415	Rv3922c_Rv3922c	Virulence, detoxification, adaptation (Mycobrowser)	-

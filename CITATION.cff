@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this pipeline, please cite it as below."
+title: "MTB virulence WGS pipeline: frozen analysis code for 55 Mycobacterium tuberculosis isolates from pulmonary TB"
+version: 1.0.0
+date-released: 2026-11-08
+license: MIT
+authors:
+  - family-names: "Swamy G S"
+    given-names: "Veerabhadra"

@@ -1,0 +1,31 @@
+{
+ "tools": {
+  "fastp": "fastp 1.4.0",
+  "bwa": "bwa 0.7.18-r1243-dirty",
+  "samtools": "samtools 1.24",
+  "bcftools": "bcftools 1.24",
+  "minimap2": "minimap2 2.31-r1302",
+  "freebayes": "version: v1.3.10",
+  "BLAST+": "blastn: 2.17.0+",
+  "DIAMOND": "diamond version 2.2.8",
+  "IQ-TREE": "IQ-TREE multicore version 2.4.0 for Linux x86 64-bit built Feb 7 2025",
+  "Prodigal": "Prodigal V2.6.3: February, 2016",
+  "PAML codeml": "PAML 4.10.10 (codeml)",
+  "SnpEff": "SnpEff 5.4c 2026-02-23",
+  "Python": "Python 3.13.17"
+ },
+ "databases": {
+  "Reference genome": "H37Rv NC_000962.3 (RefSeq equivalent of AL123456.3), 4,411,532 bp",
+  "Annotation": "NCBI RefSeq GFF + Mycobrowser H37Rv v5 (functional categories)",
+  "SnpEff database": "H37Rv, built locally from the NC_000962.3 GenBank record",
+  "tbdb": "TB-Profiler database (tbdb-master): Coll barcode 1,111 positions; 49,330 catalogued mutations; 9,658 SITVIT2 spoligotype patterns",
+  "WHO catalogue": "WHO mutation catalogue v2 (via tbdb), five confidence grades",
+  "VFDB": "core (setA) and full (setB), nucleotide and protein; database updated 23 Oct 2026, downloaded 27 Oct 2026",
+  "BV-BRC": "release 3.59.14, genome 83332.12, specialty genes, downloaded 27 Oct 2026",
+  "IEDB": "MTBC, linear peptides, positive T-cell assays, host Homo sapiens; queried 27 Oct 2026",
+  "UniProt": "proteome UP000001584, feature columns (domains, regions, motifs, sites, TM, signal), downloaded 27 Oct 2026",
+  "AMRFinder": "AMRProt reference protein set (NCBI)",
+  "TSS reference": "Shell et al. 2015 (PLoS Genet) S3 Table, authors\u2019 Leadered / Leaderless classification",
+  "ChIP-seq": "Minch et al. 2015 (Nat Commun) Supplementary Table 1, 15,980 peaks, 156 regulators"
+ }
+}

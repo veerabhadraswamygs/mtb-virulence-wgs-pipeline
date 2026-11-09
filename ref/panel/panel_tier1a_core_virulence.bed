@@ -1,0 +1,211 @@
+NC_000962.3	156577	157600	Rv0129c_fbpC	Antigens and epitope carriers	-
+NC_000962.3	181154	181985	Rv0153c_ptpB	Phagosome maturation arrest	-
+NC_000962.3	194143	194815	Rv0165c_mce1R	mce operons	-
+NC_000962.3	196860	197658	Rv0167_yrbE1A	mce operons	+
+NC_000962.3	197659	198529	Rv0168_yrbE1B	mce operons	+
+NC_000962.3	198533	199898	Rv0169_mce1A	mce operons	+
+NC_000962.3	199894	200935	Rv0170_mce1B	mce operons	+
+NC_000962.3	200931	202479	Rv0171_mce1C	mce operons	+
+NC_000962.3	202475	204068	Rv0172_mce1D	mce operons	+
+NC_000962.3	205230	206778	Rv0174_mce1F	mce operons	+
+NC_000962.3	238391	241292	Rv0202c_mmpL11	Cell envelope and lipid biosynthesis	-
+NC_000962.3	244483	247318	Rv0206c_mmpL3	Cell envelope and lipid biosynthesis	-
+NC_000962.3	251781	253602	Rv0211_pckA	Metabolic adaptation and persistence	+
+NC_000962.3	342129	344025	Rv0282_eccA3	ESX / type VII secretion	+
+NC_000962.3	344021	345638	Rv0283_eccB3	ESX / type VII secretion	+
+NC_000962.3	345634	349627	Rv0284_eccC3	ESX / type VII secretion	+
+NC_000962.3	351524	351818	Rv0287_esxG	ESX / type VII secretion	+
+NC_000962.3	351847	352138	Rv0288_esxH	ESX / type VII secretion	+
+NC_000962.3	352148	353036	Rv0289_espG3	ESX / type VII secretion	+
+NC_000962.3	353082	354501	Rv0290_eccD3	ESX / type VII secretion	+
+NC_000962.3	354497	355883	Rv0291_mycP3	ESX / type VII secretion	+
+NC_000962.3	355879	356875	Rv0292_eccE3	ESX / type VII secretion	+
+NC_000962.3	377930	378587	Rv0309_Rv0309	Antigens and epitope carriers	+
+NC_000962.3	480354	483231	Rv0402c_mmpL1	Cell envelope and lipid biosynthesis	-
+NC_000962.3	483227	483656	Rv0403c_mmpS1	Cell envelope and lipid biosynthesis	-
+NC_000962.3	485730	489939	Rv0405_pks6	Cell envelope and lipid biosynthesis	+
+NC_000962.3	495061	497314	Rv0410c_pknG	Phagosome maturation arrest	-
+NC_000962.3	519599	520322	Rv0432_sodC	Oxidative and nitrosative stress	+
+NC_000962.3	533832	534396	Rv0445c_sigK	Regulatory systems	-
+NC_000962.3	538587	541491	Rv0450c_mmpL4	Cell envelope and lipid biosynthesis	-
+NC_000962.3	541487	541910	Rv0451c_mmpS4	Cell envelope and lipid biosynthesis	-
+NC_000962.3	557526	558813	Rv0467_icl1	Metabolic adaptation and persistence	+
+NC_000962.3	560847	561711	Rv0470c_pcaA	Cell envelope and lipid biosynthesis	-
+NC_000962.3	596758	597202	Rv0506_mmpS2	Cell envelope and lipid biosynthesis	+
+NC_000962.3	597198	600105	Rv0507_mmpL2	Cell envelope and lipid biosynthesis	+
+NC_000962.3	684409	685132	Rv0586_mce2R	mce operons	+
+NC_000962.3	685128	685926	Rv0587_yrbE2A	mce operons	+
+NC_000962.3	685927	686815	Rv0588_yrbE2B	mce operons	+
+NC_000962.3	686820	688035	Rv0589_mce2A	mce operons	+
+NC_000962.3	688031	688859	Rv0590_mce2B	mce operons	+
+NC_000962.3	689058	690504	Rv0591_mce2C	mce operons	+
+NC_000962.3	690500	692027	Rv0592_mce2D	mce operons	+
+NC_000962.3	693236	694787	Rv0594_mce2F	mce operons	+
+NC_000962.3	775585	778480	Rv0676c_mmpL5	Cell envelope and lipid biosynthesis	-
+NC_000962.3	778476	778905	Rv0677c_mmpS5	Cell envelope and lipid biosynthesis	-
+NC_000962.3	851607	852351	Rv0757_phoP	Regulatory systems	+
+NC_000962.3	852395	853853	Rv0758_phoR	Regulatory systems	+
+NC_000962.3	1096821	1097508	Rv0981_mprA	Regulatory systems	+
+NC_000962.3	1097507	1099022	Rv0982_mprB	Regulatory systems	+
+NC_000962.3	1131624	1133259	Rv1013_pks16	Cell envelope and lipid biosynthesis	+
+NC_000962.3	1160543	1160828	Rv1037c_esxI	ESX / type VII secretion	-
+NC_000962.3	1160854	1161151	Rv1038c_esxJ	ESX / type VII secretion	-
+NC_000962.3	1272422	1273334	Rv1145_mmpL13a	Cell envelope and lipid biosynthesis	+
+NC_000962.3	1273354	1274767	Rv1146_mmpL13b	Cell envelope and lipid biosynthesis	+
+NC_000962.3	1313724	1315191	Rv1180_pks3	Cell envelope and lipid biosynthesis	+
+NC_000962.3	1315233	1319982	Rv1181_pks4	Cell envelope and lipid biosynthesis	+
+NC_000962.3	1321519	1324528	Rv1183_mmpL10	Cell envelope and lipid biosynthesis	+
+NC_000962.3	1340658	1340955	Rv1197_esxK	ESX / type VII secretion	+
+NC_000962.3	1341005	1341290	Rv1198_esxL	ESX / type VII secretion	+
+NC_000962.3	1364412	1365186	Rv1221_sigE	Regulatory systems	+
+NC_000962.3	1508967	1509288	Rv1344_mbtL	Iron acquisition	+
+NC_000962.3	1509280	1510846	Rv1345_mbtM	Iron acquisition	+
+NC_000962.3	1510845	1512006	Rv1346_mbtN	Iron acquisition	+
+NC_000962.3	1511972	1512605	Rv1347c_mbtK	Iron acquisition	-
+NC_000962.3	1513046	1515626	Rv1348_irtA	Iron acquisition	+
+NC_000962.3	1515622	1517362	Rv1349_irtB	Iron acquisition	+
+NC_000962.3	1587771	1588482	Rv1411c_lprG	Antigens and epitope carriers	-
+NC_000962.3	1714171	1717612	Rv1522c_mmpL12	Cell envelope and lipid biosynthesis	-
+NC_000962.3	1722082	1728409	Rv1527c_pks5	Cell envelope and lipid biosynthesis	-
+NC_000962.3	1761743	1762937	Rv1557_mmpL6	Cell envelope and lipid biosynthesis	+
+NC_000962.3	1874159	1875221	Rv1660_pks10	Cell envelope and lipid biosynthesis	+
+NC_000962.3	1875303	1881684	Rv1661_pks7	Cell envelope and lipid biosynthesis	+
+NC_000962.3	1881703	1886512	Rv1662_pks8	Cell envelope and lipid biosynthesis	+
+NC_000962.3	1886511	1888020	Rv1663_pks17	Cell envelope and lipid biosynthesis	+
+NC_000962.3	1888025	1891079	Rv1664_pks9	Cell envelope and lipid biosynthesis	+
+NC_000962.3	1891225	1892287	Rv1665_pks11	Cell envelope and lipid biosynthesis	+
+NC_000962.3	2017739	2019260	Rv1782_eccB5	ESX / type VII secretion	+
+NC_000962.3	2019256	2023432	Rv1783_eccC5	ESX / type VII secretion	+
+NC_000962.3	2030346	2030643	Rv1792_esxM	ESX / type VII secretion	+
+NC_000962.3	2030693	2030978	Rv1793_esxN	ESX / type VII secretion	+
+NC_000962.3	2032239	2033751	Rv1795_eccD5	ESX / type VII secretion	+
+NC_000962.3	2033728	2035486	Rv1796_mycP5	ESX / type VII secretion	+
+NC_000962.3	2035482	2036703	Rv1797_eccE5	ESX / type VII secretion	+
+NC_000962.3	2036699	2038532	Rv1798_eccA5	ESX / type VII secretion	+
+NC_000962.3	2134889	2135867	Rv1886c_fbpB	Antigens and epitope carriers	-
+NC_000962.3	2153888	2156111	Rv1908c_katG	Oxidative and nitrosative stress	-
+NC_000962.3	2160462	2161566	Rv1915_icl2a	Metabolic adaptation and persistence	+
+NC_000962.3	2161565	2162762	Rv1916_icl2b	Metabolic adaptation and persistence	+
+NC_000962.3	2178956	2179436	Rv1926c_mpt63	Antigens and epitope carriers	-
+NC_000962.3	2187383	2188493	Rv1936_mel2_Rv1936	Oxidative and nitrosative stress	+
+NC_000962.3	2188495	2191015	Rv1937_mel2_Rv1937	Oxidative and nitrosative stress	+
+NC_000962.3	2191026	2192097	Rv1938_mel2_ephB	Oxidative and nitrosative stress	+
+NC_000962.3	2192093	2192609	Rv1939_mel2_Rv1939	Oxidative and nitrosative stress	+
+NC_000962.3	2192605	2193667	Rv1940_mel2_ribA1	Oxidative and nitrosative stress	+
+NC_000962.3	2193663	2194434	Rv1941_mel2_Rv1941	Oxidative and nitrosative stress	+
+NC_000962.3	2205581	2206802	Rv1963c_mce3R	mce operons	-
+NC_000962.3	2207699	2208497	Rv1964_yrbE3A	mce operons	+
+NC_000962.3	2208506	2209322	Rv1965_yrbE3B	mce operons	+
+NC_000962.3	2209326	2210604	Rv1966_mce3A	mce operons	+
+NC_000962.3	2210600	2211629	Rv1967_mce3B	mce operons	+
+NC_000962.3	2211625	2212858	Rv1968_mce3C	mce operons	+
+NC_000962.3	2212854	2214126	Rv1969_mce3D	mce operons	+
+NC_000962.3	2215256	2216570	Rv1971_mce3F	mce operons	+
+NC_000962.3	2223342	2224029	Rv1980c_mpt64	Antigens and epitope carriers	-
+NC_000962.3	2272786	2274508	Rv2027c_dosT	Regulatory systems	-
+NC_000962.3	2278497	2278932	Rv2031c_hspX	Metabolic adaptation and persistence	-
+NC_000962.3	2294530	2306986	Rv2048c_pks12	Cell envelope and lipid biosynthesis	-
+NC_000962.3	2326943	2327501	Rv2069_sigC	Regulatory systems	+
+NC_000962.3	2462147	2463047	Rv2198c_mmpS3	Cell envelope and lipid biosynthesis	-
+NC_000962.3	2507145	2507637	Rv2234_ptpA	Phagosome maturation arrest	+
+NC_000962.3	2614692	2617581	Rv2339_mmpL9	Cell envelope and lipid biosynthesis	+
+NC_000962.3	2625887	2626172	Rv2346c_esxO	ESX / type VII secretion	-
+NC_000962.3	2626222	2626519	Rv2347c_esxP	ESX / type VII secretion	-
+NC_000962.3	2656214	2656430	Rv2377c_mbtH	Iron acquisition	-
+NC_000962.3	2656407	2657703	Rv2378c_mbtG	Iron acquisition	-
+NC_000962.3	2657699	2662085	Rv2379c_mbtF	Iron acquisition	-
+NC_000962.3	2662066	2667115	Rv2380c_mbtE	Iron acquisition	-
+NC_000962.3	2667254	2670269	Rv2381c_mbtD	Iron acquisition	-
+NC_000962.3	2670268	2671603	Rv2382c_mbtC	Iron acquisition	-
+NC_000962.3	2671592	2675837	Rv2383c_mbtB	Iron acquisition	-
+NC_000962.3	2675935	2677633	Rv2384_mbtA	Iron acquisition	+
+NC_000962.3	2677728	2678649	Rv2385_mbtJ	Iron acquisition	+
+NC_000962.3	2678652	2680005	Rv2386c_mbtI	Iron acquisition	-
+NC_000962.3	2714123	2715332	Rv2416c_eis	Phagosome maturation arrest	-
+NC_000962.3	2726192	2726780	Rv2428_ahpC	Oxidative and nitrosative stress	+
+NC_000962.3	2726805	2727339	Rv2429_ahpD	Oxidative and nitrosative stress	+
+NC_000962.3	2745313	2745724	Rv2445c_ndkA	Phagosome maturation arrest	-
+NC_000962.3	2768260	2768884	Rv2466c_Rv2466c	Oxidative and nitrosative stress	-
+NC_000962.3	2907825	2910198	Rv2583c_relA	Metabolic adaptation and persistence	-
+NC_000962.3	3017834	3019421	Rv2703_sigA	Regulatory systems	+
+NC_000962.3	3242197	3242983	Rv2928_tesA	Cell envelope and lipid biosynthesis	+
+NC_000962.3	3243696	3245448	Rv2930_fadD26	Cell envelope and lipid biosynthesis	+
+NC_000962.3	3245444	3251075	Rv2931_ppsA	Cell envelope and lipid biosynthesis	+
+NC_000962.3	3251071	3255688	Rv2932_ppsB	Cell envelope and lipid biosynthesis	+
+NC_000962.3	3255684	3262251	Rv2933_ppsC	Cell envelope and lipid biosynthesis	+
+NC_000962.3	3262247	3267731	Rv2934_ppsD	Cell envelope and lipid biosynthesis	+
+NC_000962.3	3267736	3272203	Rv2935_ppsE	Cell envelope and lipid biosynthesis	+
+NC_000962.3	3272213	3273209	Rv2936_drrA	Cell envelope and lipid biosynthesis	+
+NC_000962.3	3273205	3274075	Rv2937_drrB	Cell envelope and lipid biosynthesis	+
+NC_000962.3	3274071	3274902	Rv2938_drrC	Cell envelope and lipid biosynthesis	+
+NC_000962.3	3274948	3276217	Rv2939_papA5	Cell envelope and lipid biosynthesis	+
+NC_000962.3	3276379	3282715	Rv2940c_mas	Cell envelope and lipid biosynthesis	-
+NC_000962.3	3283334	3285077	Rv2941_fadD28	Cell envelope and lipid biosynthesis	+
+NC_000962.3	3285069	3287832	Rv2942_mmpL7	Cell envelope and lipid biosynthesis	+
+NC_000962.3	3290623	3291325	Rv2945c_lppX	Antigens and epitope carriers	-
+NC_000962.3	3291502	3296353	Rv2946c_pks1	Cell envelope and lipid biosynthesis	-
+NC_000962.3	3296349	3297840	Rv2947c_pks15	Cell envelope and lipid biosynthesis	-
+NC_000962.3	3313772	3315122	Rv2962c_Rv2962c	Cell envelope and lipid biosynthesis	-
+NC_000962.3	3376489	3376852	Rv3017c_esxQ	ESX / type VII secretion	-
+NC_000962.3	3378710	3379001	Rv3019c_esxR	ESX / type VII secretion	-
+NC_000962.3	3379035	3379329	Rv3020c_esxS	ESX / type VII secretion	-
+NC_000962.3	3497528	3499265	Rv3132c_devS	Regulatory systems	-
+NC_000962.3	3499261	3499915	Rv3133c_devR	Regulatory systems	-
+NC_000962.3	3598900	3599551	Rv3223c_sigH	Regulatory systems	-
+NC_000962.3	3668168	3668954	Rv3286c_sigF	Regulatory systems	-
+NC_000962.3	3697197	3698097	Rv3310_sapM	Phagosome maturation arrest	+
+NC_000962.3	3834891	3835200	Rv3416_whiB3	Regulatory systems	+
+NC_000962.3	3862623	3862926	Rv3444c_esxT	ESX / type VII secretion	-
+NC_000962.3	3862946	3863264	Rv3445c_esxU	ESX / type VII secretion	-
+NC_000962.3	3864527	3868238	Rv3447c_eccC4	ESX / type VII secretion	-
+NC_000962.3	3868351	3869755	Rv3448_eccD4	ESX / type VII secretion	+
+NC_000962.3	3869751	3871119	Rv3449_mycP4	ESX / type VII secretion	+
+NC_000962.3	3871083	3872496	Rv3450c_eccB4	ESX / type VII secretion	-
+NC_000962.3	3911674	3913369	Rv3494c_mce4F	mce operons	-
+NC_000962.3	3914530	3915886	Rv3496c_mce4D	mce operons	-
+NC_000962.3	3915882	3916956	Rv3497c_mce4C	mce operons	-
+NC_000962.3	3916945	3917998	Rv3498c_mce4B	mce operons	-
+NC_000962.3	3917997	3919200	Rv3499c_mce4A	mce operons	-
+NC_000962.3	3919219	3920062	Rv3500c_yrbE4B	mce operons	-
+NC_000962.3	3920096	3920861	Rv3501c_yrbE4A	mce operons	-
+NC_000962.3	4054141	4054696	Rv3614c_espD	ESX / type VII secretion	-
+NC_000962.3	4054811	4055123	Rv3615c_espC	ESX / type VII secretion	-
+NC_000962.3	4055196	4056375	Rv3616c_espA	ESX / type VII secretion	-
+NC_000962.3	4059983	4060268	Rv3619c_esxV	ESX / type VII secretion	-
+NC_000962.3	4060294	4060591	Rv3620c_esxW	ESX / type VII secretion	-
+NC_000962.3	4255944	4261146	Rv3800c_pks13	Cell envelope and lipid biosynthesis	-
+NC_000962.3	4265641	4266658	Rv3804c_fbpA	Cell envelope and lipid biosynthesis	-
+NC_000962.3	4288259	4291529	Rv3823c_mmpL8	Cell envelope and lipid biosynthesis	-
+NC_000962.3	4293224	4299605	Rv3825c_pks2	Cell envelope and lipid biosynthesis	-
+NC_000962.3	4320703	4321327	Rv3846_sodA	Oxidative and nitrosative stress	+
+NC_000962.3	4323498	4323897	Rv3849_espR	ESX / type VII secretion	+
+NC_000962.3	4338170	4338521	Rv3862c_whiB6	ESX / type VII secretion	-
+NC_000962.3	4340269	4341478	Rv3864_espE	ESX / type VII secretion	+
+NC_000962.3	4341565	4341877	Rv3865_espF	ESX / type VII secretion	+
+NC_000962.3	4341879	4342731	Rv3866_espG1	ESX / type VII secretion	+
+NC_000962.3	4342769	4343321	Rv3867_espH	ESX / type VII secretion	+
+NC_000962.3	4343313	4345035	Rv3868_eccA1	ESX / type VII secretion	+
+NC_000962.3	4345038	4346481	Rv3869_eccB1	ESX / type VII secretion	+
+NC_000962.3	4346480	4348724	Rv3870_eccCa1	ESX / type VII secretion	+
+NC_000962.3	4348826	4350602	Rv3871_eccCb1	ESX / type VII secretion	+
+NC_000962.3	4352273	4352576	Rv3874_esxB	ESX / type VII secretion	+
+NC_000962.3	4352608	4352896	Rv3875_esxA	ESX / type VII secretion	+
+NC_000962.3	4353009	4355010	Rv3876_espI	ESX / type VII secretion	+
+NC_000962.3	4355006	4356542	Rv3877_eccD1	ESX / type VII secretion	+
+NC_000962.3	4356692	4357535	Rv3878_espJ	ESX / type VII secretion	+
+NC_000962.3	4357592	4359782	Rv3879c_espK	ESX / type VII secretion	-
+NC_000962.3	4360198	4360546	Rv3880c_espL	ESX / type VII secretion	-
+NC_000962.3	4360542	4361925	Rv3881c_espB	ESX / type VII secretion	-
+NC_000962.3	4362031	4363420	Rv3882c_eccE1	ESX / type VII secretion	-
+NC_000962.3	4363416	4364757	Rv3883c_mycP1	ESX / type VII secretion	-
+NC_000962.3	4364978	4366838	Rv3884c_eccA2	ESX / type VII secretion	-
+NC_000962.3	4366907	4368521	Rv3885c_eccE2	ESX / type VII secretion	-
+NC_000962.3	4368517	4370170	Rv3886c_mycP2	ESX / type VII secretion	-
+NC_000962.3	4370154	4371684	Rv3887c_eccD2	ESX / type VII secretion	-
+NC_000962.3	4372799	4373630	Rv3889c_espG2	ESX / type VII secretion	-
+NC_000962.3	4373725	4374013	Rv3890c_esxC	ESX / type VII secretion	-
+NC_000962.3	4374048	4374372	Rv3891c_esxD	ESX / type VII secretion	-
+NC_000962.3	4376261	4380452	Rv3894c_eccC2	ESX / type VII secretion	-
+NC_000962.3	4380452	4381940	Rv3895c_eccB2	ESX / type VII secretion	-
+NC_000962.3	4390436	4390709	Rv3904c_esxE	ESX / type VII secretion	-
+NC_000962.3	4390719	4391031	Rv3905c_esxF	ESX / type VII secretion	-

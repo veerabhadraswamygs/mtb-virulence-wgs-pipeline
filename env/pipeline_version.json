@@ -1,0 +1,82 @@
+{
+ "fingerprint": "74d12c396d65013d",
+ "files": [
+  "code/analyse.py",
+  "code/analyse_all.py",
+  "code/assemble.sh",
+  "code/check.py",
+  "code/core.sh",
+  "code/figs.py",
+  "code/mod_cov.py",
+  "code/mod_id.py",
+  "code/mod_lineage.py",
+  "code/mod_pe.py",
+  "code/mod_resist.py",
+  "code/mod_tbd1.py",
+  "code/package.sh",
+  "code/palette.py",
+  "code/report.py",
+  "code/run_sample.sh",
+  "code/versions.py",
+  "ref/H37Rv.fa",
+  "ref/catalogue.json",
+  "ref/chipseq.json",
+  "ref/epitopes_mapped.json",
+  "ref/genes.json",
+  "ref/mask_static.bed",
+  "ref/panel/panel_tier1a_core_virulence.bed",
+  "ref/panel/panel_tier1b_toxin_antitoxin.bed",
+  "ref/panel/panel_tier2_pe_ppe.bed",
+  "ref/panel/panel_tier3_exploratory.bed",
+  "ref/tss_regions.json",
+  "ref/cohort_context.json",
+  "code/c6_context.py"
+ ],
+ "frozen": "2026-11-05 (v5.1)",
+ "note": "All 55 sample reports must be produced under this fingerprint. If any listed file changes, every already-completed sample is re-run.",
+ "history": [
+  {
+   "from": "60569061da6dc672",
+   "to": "88d75857c1fee6f9",
+   "date": "2026-11-01",
+   "change": "Edge-case handling for samples with no assembled contigs and/or no variants (e.g. MTB32, 174,073 reads). figs.py: fig_effects returns None when empty. report.py: explicit statements for empty assembly, unavailable ANI, and undrawn figures. check.py: those cases verified by explicit conditional assertions; plus one new check ('undrawn figures each announced') run on every sample.",
+   "neutrality_proof": "MTB25, MTB28, MTB29 rebuilt with the patched code: report HTML and all figure PNGs byte-identical to the delivered versions; all checks pass."
+  },
+  {
+   "from": "88d75857c1fee6f9",
+   "to": "4b17cd98bebcb6b1",
+   "date": "2026-11-01",
+   "change": "Cohort inclusion now matches the study decision that every isolate enters the cohort analyses. analyse.py: cohort_eligible is always True and a cohort_status field (full / retained_after_decontamination / low_depth) is recorded. report.py: cover row and section 4 state inclusion and flag low-depth isolates as LOW-DEPTH. check.py: the cohort row is now verified (it previously was not).",
+   "neutrality_proof": "MTB24, MTB28 rebuilt: report HTML byte-identical to delivered. MTB25 rebuilt: exactly two lines differ (cover row, section-4 explanation). All checks pass.",
+   "data_correction": "cohort_eligible flipped False->True in stored results.json for MTB4, MTB25, MTB32, MTB35; cohort_status added to all; originals kept."
+  },
+  {
+   "from": "4b17cd98bebcb6b1",
+   "to": "34dcb71bdfe027be",
+   "date": "2026-11-01",
+   "change": "TbD1 'absent' now requires the junction-spanning region (H37Rv 1,757,997-1,767,717) on a single contig (>=80%); otherwise the call is 'not_determined'. mod_tbd1.py records flank evidence; report.py explains the rule, shows the evidence row, and no longer compares against an 'expected' call when the lineage is unassigned or the call is not determined; check.py verifies all of this and no longer requires modern-lineage isolates to be called absent.",
+   "neutrality_proof": "11 of 15 finished samples keep their call (MTB3,9,14,18,21,22,24,28,29,30,31); MTB28 rebuilt differs only by the added explanatory paragraph and evidence row. Four calls changed from an unsupported 'absent' to 'not_determined': MTB4, MTB25, MTB32, MTB35 (junction region 0% in assembly).",
+   "data_refresh": "stored tbd1 record regenerated for all finished samples from existing assemblies; originals kept."
+  },
+  {
+   "from": "4c8414227cb4d6d7",
+   "to": "bcb5c547e583c7e0",
+   "date": "2026-11-04",
+   "change": "v5 report layer. report.py: one gene-absence rule for all isolates (a gene is called absent only if the isolate has >=90% of its genome at >=10x, else 'not determined'; changes MTB4, MTB25, MTB32, MTB35 only); new section 17 'Cohort context' (cluster, closest isolates, closest public genome, mixed infection, IS6110, TbD1 variant) read from ref/cohort_context.json (built by code/c6_context.py from the cohort results); sections renumbered (Limitations 18, Methods 19); stale 'deferred to cohort round' statements updated; literal '%%' typos removed. check.py updated for the new section list.",
+   "neutrality_proof": "No analysis code changed: variant calls, resistance, lineage, assembly, coverage and all tables other than gene_presence are unchanged."
+  },
+  {
+   "from": "bcb5c547e583c7e0",
+   "to": "74d12c396d65013d",
+   "date": "2026-11-05",
+   "change": "report.py: wording of the PROVEAN/SIFT4G substitution row (PROVEAN was later run once for the cohort; SIFT4G not run). Text only.",
+   "neutrality_proof": "No analysis or table content changed."
+  }
+ ],
+ "previous_fingerprints": [
+  "34dcb71bdfe027be",
+  "9689c65b7e309bb3",
+  "4c8414227cb4d6d7",
+  "bcb5c547e583c7e0"
+ ]
+}
